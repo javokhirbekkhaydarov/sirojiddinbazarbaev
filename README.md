@@ -1,10 +1,15 @@
 # Hi, I'm Frontend Developer
 
-![](https://github-readme-stats.vercel.app/api?username=sirojiddinbazarbaev&count_private=true&show_icons=true&theme=react)
+### My contributions
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sirojiddinbazarbaev&theme=react)](https://git.io/streak-stats)
+<br/>
+### My stats
+[![javohirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=sirojiddinbazarbaev&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats) <br/><br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinbazarbaev&show_icons=true&theme=react) 
+### Using languages
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinbazarbaev&show_icons=true&theme=react)
 
-## Social Media 
+#### Social Media 
 - [LinkedIn](https://www.linkedin.com/in/sirojiddinbazarbaev/) 
 - [Instagram](https://www.instagram.com/sirojiddinbazarbaev/) 
 - [Telegram](https://t.me/sirojiddinbazarbaev/)
