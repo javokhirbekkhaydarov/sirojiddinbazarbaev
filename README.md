@@ -7,13 +7,12 @@
 [![sirojiddinbazarbaev's github stats](https://github-readme-stats.vercel.app/api?username=sirojiddinbazarbaev&show_icons=true&theme=react)](https://github.com/sirojiddinbazarbaev/github-readme-stats) <br/><br/>
 
 ### Using languages
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinbazarbaev&show_icons=true&theme=react)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinbazarbaev&show_icons=true&theme=react)    [![Sirojiddin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirojiddinbazarbaev&show_icons=true&theme=react)](https://github.com/sirojiddinbazarbaev/github-readme-stats)
 
-[![Sirojiddin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirojiddinbazarbaev&show_icons=true&theme=react)](https://github.com/sirojiddinbazarbaev/github-readme-stats)
+
 
 ### Codewars stats
 <img align="center" src="https://www.codewars.com/users/sirojiddinbazarbaev/badges/large" />
-![ ](https://www.codewars.com/users/sirojiddinbazarbaev/badges/large)
 
 #### Social Media 
 - [LinkedIn](https://www.linkedin.com/in/sirojiddinbazarbaev/) 
