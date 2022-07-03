@@ -9,6 +9,8 @@
 ### Using languages
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinbazarbaev&show_icons=true&theme=react)
 
+[![Sirojiddin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirojiddinbazarbaev)](https://github.com/sirojiddinbazarbaev/github-readme-stats)
+
 #### Social Media 
 - [LinkedIn](https://www.linkedin.com/in/sirojiddinbazarbaev/) 
 - [Instagram](https://www.instagram.com/sirojiddinbazarbaev/) 
