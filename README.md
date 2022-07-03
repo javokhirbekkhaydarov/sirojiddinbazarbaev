@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirojiddinbazarbaev&label=Profile%20views&color=0e75b6&style=flat" alt="sirojiddinbazarbaev" /> </p>
+
 # Hi, I'm Frontend Developer
 
 ### My contributions
