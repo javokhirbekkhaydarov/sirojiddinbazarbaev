@@ -11,6 +11,8 @@
 
 [![Sirojiddin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirojiddinbazarbaev)](https://github.com/sirojiddinbazarbaev/github-readme-stats)
 
+<img src="https://github.com/<sirojiddinbazarbaev>/<sirojiddinbazarbaev>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+
 #### Social Media 
 - [LinkedIn](https://www.linkedin.com/in/sirojiddinbazarbaev/) 
 - [Instagram](https://www.instagram.com/sirojiddinbazarbaev/) 
