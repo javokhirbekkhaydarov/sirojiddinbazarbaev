@@ -9,7 +9,7 @@
 ### Using languages
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinbazarbaev&show_icons=true&theme=react)
 
-[![Sirojiddin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirojiddinbazarbaev&layuout=compact&theme=synthwave)](https://github.com/sirojiddinbazarbaev/github-readme-stats)
+[![Sirojiddin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sirojiddinbazarbaev&show_icons=true&theme=react)](https://github.com/sirojiddinbazarbaev/github-readme-stats)
 
 #### Social Media 
 - [LinkedIn](https://www.linkedin.com/in/sirojiddinbazarbaev/) 
